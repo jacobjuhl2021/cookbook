@@ -15,7 +15,7 @@ const handleClick = () => {
 </script>
 
 <template>
-    <button @click="handleClick" class="btn btn-primary"> 
+    <button @click="handleClick" type="button" class="btn btn-primary"> 
         {{ text }}
     </button>
 </template>
