@@ -7,7 +7,7 @@ import navbar from '../components/navbar.vue';
 
 	<div class="container">
     	<div class="text-center">
-    	    <h1>Forside</h1>
+    	    <h1>Forsiden</h1>
     	</div>
 		
         <div class="d-flex flex-column gap-3">
